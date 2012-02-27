@@ -1,8 +1,5 @@
 ﻿Send link to email 
 
-Ekstenzija trenutno šalje samo jedan link na jedan email.
-Poterebno
-
 Kako bi koristili ekstenziju potrebno je da omogucite Developer mode (Tools/Extensions).
 Nakon toga kliknete na Load unpacked extension... i kliknete na direktorij u kojem se nalazi ekstenzija.
 To je to!

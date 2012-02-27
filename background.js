@@ -14,6 +14,6 @@ function OnContextMenuClick(info, tab)
 function sendToUrl(tab)
 {
 	chrome.tabs.create({
-		"url": "mailto:murselmusabasic@gmail.com?subject="+tab.title+"&body="+tab.url
+		"url": "mailto:xxxx@xxxx.com?subject="+tab.title+"&body="+tab.url
 	});
 }
