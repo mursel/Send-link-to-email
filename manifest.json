@@ -1,0 +1,21 @@
+{	
+	"name": "Send Link To Email",
+  
+	"version": "1.1",
+	
+	"background_page": "background.htm",
+	
+	"permissions": [
+		"tabs",
+		"contextMenus"
+	],
+	
+	"icons": {
+		"16": "icon.png"
+	},	
+
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": ""
+	}
+}
